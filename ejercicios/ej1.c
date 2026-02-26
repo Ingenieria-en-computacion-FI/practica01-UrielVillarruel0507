@@ -1,6 +1,9 @@
 
-#include <stdio.h>
+#include <studio.h>
 int main(){
-    // Ejercicio 1
-    return 0;
+int a[6];
+for(int i-0; i<6; i++);{
+      print("%a[%d] = %p\n", i, &a[i]);
+}
+return 0;
 }
