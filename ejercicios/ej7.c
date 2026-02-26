@@ -1,6 +1,4 @@
-
-#include <stdio.h>
-int main(){
-    // Ejercicio 7
-    return 0;
-}
+&m[0][3]
+&m[1][0]
+&m[0][3] = base + (0*4+3)*4 = base + 12 &m[1][0] = base + (1*4+0)*4 = base + 16
+Mayor: &m[1][0]
