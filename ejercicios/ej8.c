@@ -1,6 +1,7 @@
 
-#include <stdio.h>
-int main(){
-    // Ejercicio 8
-    return 0;
-}
+2024=2000+(1*C+2)*4
+2024-2000=(C+2)*4
+24=(C+2)=*4
+6=C+2
+C=4
+2*4*4=32 bytes
